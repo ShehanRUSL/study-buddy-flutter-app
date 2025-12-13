@@ -1,16 +1,122 @@
-# study_buddy_app
+# 📚 Study Buddy – Flutter Mobile App
 
-A new Flutter project.
+**Study Buddy** is a simple and offline Flutter mobile application designed to help students stay focused and organized while studying.
+The app combines a **Pomodoro Timer**, **Study Planner**, and **To-Do List** in one place with clean UI and local data storage.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* ⏱️ **Pomodoro Timer**
+  * 25-minute focus timer
+  * Start, pause, and reset controls
+  * Circular progress indicator
+  * Helps improve concentration and productivity
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* 🗓️ **Study Planner**
+  * Select any date using a calendar
+  * Add study tasks for specific days
+  * View tasks date-wise
+  * Delete tasks easily
+
+* ✅ **To-Do List**
+  * Automatically adds planner tasks to To-Do list
+  * Mark tasks as completed
+  * Keeps track of remaining work
+
+* 💾 **Offline Storage**
+  * Uses `SharedPreferences`
+  * All data is saved locally
+  * Works without internet connection
+
+* 🎨 **Clean UI**
+  * Green gradient background
+  * Bottom navigation bar
+  * Simple and user-friendly design
+
+---
+
+## 🛠️ Built With
+
+* **Flutter**
+* **Dart**
+* **SharedPreferences (Local Storage)**
+* **Material UI**
+
+---
+
+## 📱 Screenshots
+
+> Add screenshots inside a folder named `screenshots/`  
+
+Example:
+
+```
+
+screenshots/
+├── timer.png
+├── planner.png
+└── todo.png
+
+````
+
+Then in README:
+
+```md
+![Timer](screenshots/timer.png)
+![Planner](screenshots/planner.png)
+![Todo](screenshots/todo.png)
+````
+
+---
+
+## 🚀 How to Run This Project on Your PC
+
+### Prerequisites
+
+* Flutter SDK installed
+* Android Studio / VS Code
+* Android Emulator or Physical Device
+
+### Steps
+
+```bash
+git clone https://github.com/ShehanRUSL/study-buddy-flutter-app.git
+cd study-buddy-flutter-app
+flutter pub get
+flutter run
+```
+
+---
+
+---
+
+## 🔒 Data Storage
+
+* Uses **SharedPreferences**
+* Saves:
+
+  * Study planner tasks
+  * To-Do list tasks
+* Data remains even after app restart
+
+---
+
+## 🎯 Future Improvements
+
+* 🔔 Notifications for Pomodoro sessions
+* ☁️ Cloud sync (Firebase)
+* 🎨 Dark mode
+* 📊 Study statistics & reports
+
+---
+
+## 👤 Author
+
+**Shehan Hasantha**
+Beginner Flutter Developer
+📍 Sri Lanka
+
+---
+
+```
