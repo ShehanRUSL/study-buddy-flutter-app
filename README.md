@@ -1,9 +1,9 @@
 # 📚 Study Buddy – Flutter Mobile App
 
-**Study Buddy** is a simple and offline Flutter mobile application designed to help students stay focused and organized while studying.
+**Study Buddy** is a simple and offline Flutter mobile application designed to help students stay focused and organized while studying.  
 The app combines a **Pomodoro Timer**, **Study Planner**, and **To-Do List** in one place with clean UI and local data storage.
 
-
+---
 
 ## ✨ Features
 
@@ -47,33 +47,20 @@ The app combines a **Pomodoro Timer**, **Study Planner**, and **To-Do List** in 
 
 ## 📱 Screenshots
 
-> Add screenshots inside a folder named `screenshots/`  
+Here are some screenshots of the app:
 
-Example:
-
-```
-
-screenshots/
-├── timer.png
-├── planner.png
-└── todo.png
-
-````
-
-Then in README:
-
-```md
 ![Timer](screenshots/timer.png)
 ![Planner](screenshots/planner.png)
 ![Todo](screenshots/todo.png)
-````
+
+---
 
 ## 🚀 How to Run This Project on Your PC
 
 ### Prerequisites
 
 * Flutter SDK installed
-* Android Studio / VS Code
+* Android Studio or VS Code
 * Android Emulator or Physical Device
 
 ### Steps
@@ -83,7 +70,9 @@ git clone https://github.com/ShehanRUSL/study-buddy-flutter-app.git
 cd study-buddy-flutter-app
 flutter pub get
 flutter run
-```
+````
+
+---
 
 ## 🔒 Data Storage
 
@@ -112,3 +101,5 @@ Beginner Flutter Developer
 
 ---
 
+Do you want me to do that?
+```
