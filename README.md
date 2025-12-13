@@ -47,13 +47,13 @@ The app combines a **Pomodoro Timer**, **Study Planner**, and **To-Do List** in 
 
 ## 📱 Screenshots
 
-Here are some screenshots of the app:
+<div align="center">
 
-![Timer](screenshots/timer.png)
-![Planner](screenshots/planner.png)
-![Todo](screenshots/todo.png)
+<img src="screenshots/timer.png" alt="Timer" width="200px" /><br>
+<img src="screenshots/planner.png" alt="Planner" width="200px" /><br>
+<img src="screenshots/todo.png" alt="Todo" width="200px" />
 
----
+</div>
 
 ## 🚀 How to Run This Project on Your PC
 
