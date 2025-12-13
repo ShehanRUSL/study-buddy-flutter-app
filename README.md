@@ -49,8 +49,8 @@ The app combines a **Pomodoro Timer**, **Study Planner**, and **To-Do List** in 
 
 <div align="center">
 
-<img src="screenshots/timer.png" alt="Timer" width="200px" /><br>
-<img src="screenshots/planner.png" alt="Planner" width="200px" /><br>
+<img src="screenshots/timer.png" alt="Timer" width="200px" />
+<img src="screenshots/planner.png" alt="Planner" width="200px" />
 <img src="screenshots/todo.png" alt="Todo" width="200px" />
 
 </div>
