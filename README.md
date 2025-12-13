@@ -68,8 +68,6 @@ Then in README:
 ![Todo](screenshots/todo.png)
 ````
 
----
-
 ## 🚀 How to Run This Project on Your PC
 
 ### Prerequisites
@@ -86,10 +84,6 @@ cd study-buddy-flutter-app
 flutter pub get
 flutter run
 ```
-
----
-
----
 
 ## 🔒 Data Storage
 
@@ -115,8 +109,6 @@ flutter run
 
 **Shehan Hasantha**
 Beginner Flutter Developer
-📍 Sri Lanka
 
 ---
 
-```
