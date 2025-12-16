@@ -87,7 +87,7 @@ flutter run
 
 ## 🎯 Future Improvements
 
-* 🔔 Notifications for Pomodoro sessions
+* 🔔 Notifications for the Pomodoro sessions
 * ☁️ Cloud sync (Firebase)
 * 🎨 Dark mode
 * 📊 Study statistics & reports
